@@ -9,7 +9,7 @@ numpy, pandas, matplotlib.pyplot, seaborn, plotly.express, scipy.stats
 - https://www.kaggle.com/datasets/kkhandekar/cost-of-living-index-by-city-2022
 - https://www.kaggle.com/datasets/jackogozaly/data-science-and-stem-salaries
 
-# Preview:
+# Preview of Notebook
 
 ## Objective
 To find the best location to work as a Data Scientist, outside of FAANG-M
