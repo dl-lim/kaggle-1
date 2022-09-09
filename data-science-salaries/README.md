@@ -1,4 +1,6 @@
-Data Science Salaries Exploratory Data Analysis in Python
+# Data Science Salaries in 2022
+
+Exploratory Data Analysis in Python
 
 https://www.kaggle.com/code/dllim1/data-science-salaries
 
